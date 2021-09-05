@@ -32,6 +32,13 @@ h3{
 
 }
 
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
 .pro{
     text-decoration: underline;
 }
@@ -48,3 +55,16 @@ h3{
     left: 300px;
     bottom: 300px;
 }
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.chili-img{
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+    }
